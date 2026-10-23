@@ -1,2 +1,2 @@
 print("hello world")
-prin("kk")
+print("hellooo")
